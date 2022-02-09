@@ -1,4 +1,4 @@
-//
+//Take a file and displaying how many times the words are repeated in it.
 
 if (process.argv.length < 3) {
   console.log(
